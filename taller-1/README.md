@@ -68,13 +68,13 @@ Este proyecto fue desarrollado como material educativo para estudiantes de BIT +
 
 1. repositorio
 2.ejecutar el servidor
-    <img href="./imgs/img1.png">
+    <img src="./imgs/img1.png">
 3.Test : pasan todas las pruebas
-    <img href="./imgs/img2.png">
+    <img src="./imgs/img2.png">
 4. Test : pasan solo dos pruebas menos la prueba de numeros negativos
-    <img href="./imgs/img3.png">
+    <img src="./imgs/img3.png">
 5. Test : inicio de sesion exitoso
-    <img href="./imgs/img4.png">
+    <img src="./imgs/img4.png">
 
 6. Test : todos los test fueron exitosos.
-    img href="./imgs/img5.png">
+    <img src="./imgs/img5.png">
