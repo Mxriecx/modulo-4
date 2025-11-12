@@ -73,3 +73,8 @@ Este proyecto fue desarrollado como material educativo para estudiantes de BIT +
     <img href="./imgs/img2.png">
 4. Test : pasan solo dos pruebas menos la prueba de numeros negativos
     <img href="./imgs/img3.png">
+5. Test : inicio de sesion exitoso
+    <img href="./imgs/img4.png">
+
+6. Test : todos los test fueron exitosos.
+    img href="./imgs/img5.png">

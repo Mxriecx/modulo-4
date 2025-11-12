@@ -94,7 +94,7 @@ export const loginUser = async (request, response) => {
 
         return response.status(200).json({
             mensaje: 'Inicio de sesión exitoso',
-            // token: token
+            token: token
         });
 
         
