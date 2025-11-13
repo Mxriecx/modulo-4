@@ -54,8 +54,13 @@ Este repositorio presenta la solución de una prueba técnica realizada en clase
 ## Autoría  
 Este proyecto fue desarrollado como material educativo para estudiantes de BIT +. Si tienes preguntas o sugerencias, no dudes en contactarme.  
 
-- **Autor:** Luisa Castaño Vanegas
-- **GitHub:** [LuisaCastano40](https://github.com/LuisaCastano40)  
-- **LinkedIn:** [Perfil de linkedIn](https://www.linkedin.com/in/luisacastanovanegas/) 
+- **Autor:** Maria Camila Paz Tuiran 
+- **GitHub:**  https://github.com/Mxriecx
 
 ¡Explora los ejemplos y adapta las soluciones a tus propios proyectos!
+
+#taller
+
+1. Test 1 ejemplo  : <img src="img/img1.png">
+2.Test 2 ejemplo no funciona : <img src="img/img2.png">
+3. test 3 : todos los metodos funcionan :<img src="img/img4.png">
